@@ -3,3 +3,7 @@ files:
     translation: /core/res/res/values-%android_code%/%original_file_name%
   - source: /packages/SystemUI/res/values/spark_strings.xml
     translation: /packages/SystemUI/res/values-%android_code%/%original_file_name%
+  - source: /core/res/res/values/strings.xml
+    translation: /core/res/res/values-%android_code%/%original_file_name%
+  - source: /packages/SystemUI/res/values/strings.xml
+    translation: /packages/SystemUI/res/values-%android_code%/%original_file_name%
