@@ -99,9 +99,9 @@
     <!-- Volume panel QS tile -->
     <string name="quick_settings_volume_panel_label">Pannello del volume</string>
     <!-- Weather Tile -->
-    <string name="omnijaws_service_error">Error loading weather data</string>
-    <string name="omnijaws_service_unknown">No weather data</string>
-    <string name="omnijaws_label_default">Weather</string>
+    <string name="omnijaws_service_error">Errore durante il caricamento dei dati meteo</string>
+    <string name="omnijaws_service_unknown">Nessun dato meteo</string>
+    <string name="omnijaws_label_default">Meteo</string>
     <!-- Alert slide extras -->
     <string name="volume_ringer_priority_only">Priorità</string>
     <string name="volume_ringer_alarms_only">Sveglie</string>
@@ -142,10 +142,10 @@
     <string name="bluetooth_is_off">Bluetooth disattivato</string>
     <string name="tap_a_device_to_connect">Tocca un dispositivo per connetterti</string>
     <!-- Refresh Rate Tile -->
-    <string name="refresh_rate_tile_label">Refresh rate</string>
-    <string name="auto_mode_label">Auto</string>
+    <string name="refresh_rate_tile_label">Frequenza di aggiornamento</string>
+    <string name="auto_mode_label">Automatica</string>
     <!-- Data usage panel -->
-    <string name="total_internet_usage">Total internet usage (Since boot)</string>
-    <string name="cellular_usage">Mobile data usage</string>
-    <string name="wifi_usage">Wifi data usage</string>
+    <string name="total_internet_usage">Utilizzo totale di internet (dal boot)</string>
+    <string name="cellular_usage">Utilizzo dati mobili</string>
+    <string name="wifi_usage">Utilizzo dati Wi-Fi</string>
 </resources>
